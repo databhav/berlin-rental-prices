@@ -42,7 +42,7 @@ The goal of this project is to analyze the Berlin rental market by examining fac
     ```
 
 ## Project Structure
-- 'osint.ipynb': The jupyter notebook containing analysis and model work
+- `osint.ipynb`: The jupyter notebook containing analysis and model work
 - `main.py`: The main script for the Streamlit app.
 - `requirements.txt`: The file containing all the dependencies needed for the project.
 - `data/`: Directory containing the dataset for rental prices.
