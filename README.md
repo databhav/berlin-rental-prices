@@ -2,6 +2,8 @@
 
 This repository provides an analysis of the rental prices in Berlin, exploring various datasets, visualizations, and machine learning models to better understand the trends in the rental market over time.
 
+Website: [Berlin Rental Prices Analysis](https://berlin-rental-prices.streamlit.app/)
+
 ## Overview
 
 The goal of this project is to analyze the Berlin rental market by examining factors such as location, apartment size, and price trends. The analysis is based on publicly available datasets, with the aim to uncover patterns and help stakeholders make informed decisions regarding rental prices.
@@ -40,11 +42,10 @@ The goal of this project is to analyze the Berlin rental market by examining fac
     ```
 
 ## Project Structure
-
+- 'osint.ipynb': The jupyter notebook containing analysis and model work
 - `main.py`: The main script for the Streamlit app.
 - `requirements.txt`: The file containing all the dependencies needed for the project.
 - `data/`: Directory containing the dataset for rental prices.
-- `images/`: Directory for images used in the project.
 
 ## References
 
