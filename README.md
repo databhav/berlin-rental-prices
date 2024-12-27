@@ -41,6 +41,9 @@ The goal of this project is to analyze the Berlin rental market by examining fac
     streamlit run main.py
     ```
 
+## Retracing Steps
+If you want to retrace the steps of the analysis, run the `osint.ipynb` notebook and execute all the cells to recreate the process.
+
 ## Project Structure
 - `osint.ipynb`: The jupyter notebook containing analysis and model work
 - `main.py`: The main script for the Streamlit app.
